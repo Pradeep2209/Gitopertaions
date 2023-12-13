@@ -1,0 +1,1 @@
+javascript content for file 2
